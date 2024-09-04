@@ -23,16 +23,6 @@
   color: white;
 }
 
-
-
-
-
-
-
-
-
-
-
 /* ======================floating btn start========================= */
 .floating-btn {
   position: fixed;
@@ -63,26 +53,8 @@
 .floating-btn:hover {
   background-color: rgb(209, 53, 69) !important;
 }
+
 /* ======================floating btn end========================= */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* ======================floating btn2 start========================= */
 .floating-btn2 {
@@ -115,34 +87,6 @@
   background-color: rgb(209, 53, 69) !important;
 }
 /* ======================floating btn2 end========================= */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /*========================================= cards start==============================================*/
 
@@ -588,7 +532,6 @@ a:hover {
   justify-content: space-between;
 }
 /* footer */
-
 
 
 
