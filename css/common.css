@@ -23,6 +23,16 @@
   color: white;
 }
 
+
+
+
+
+
+
+
+
+
+
 /* ======================floating btn start========================= */
 .floating-btn {
   position: fixed;
@@ -53,8 +63,86 @@
 .floating-btn:hover {
   background-color: rgb(209, 53, 69) !important;
 }
-
 /* ======================floating btn end========================= */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ======================floating btn2 start========================= */
+.floating-btn2 {
+  position: fixed;
+  top: 40%;
+  left: 0;
+  transform-origin: right center;
+  padding: 0;
+  color: white !important;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 600 !important;
+  border-top: 2px solid white !important;
+  border-right: 2px solid white !important;
+  border-bottom: 2px solid white !important;
+  border-radius:0 5px 5px 0 !important;
+  z-index: 1000;
+  transition: background-color 0.3s;
+  animation: blink2 300ms infinite alternate;
+}
+@keyframes blink2 {
+  0% {
+    background-color: rgb(255, 0, 0);
+  }
+  100% {
+    background-color: rgb(255, 218, 55);
+  }
+}
+.floating-btn2:hover {
+  background-color: rgb(209, 53, 69) !important;
+}
+/* ======================floating btn2 end========================= */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*========================================= cards start==============================================*/
 
@@ -500,3 +588,16 @@ a:hover {
   justify-content: space-between;
 }
 /* footer */
+
+
+
+
+
+/* header */
+.our_s_heading {
+  font-size: 2.6rem;
+}
+.img_main img{
+  width: 100px;
+}
+/* header */
